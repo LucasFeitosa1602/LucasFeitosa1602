@@ -1,4 +1,4 @@
-## Olá!, Sou Lucas Feitosa
+## Olá!, Sou Lucas Feitosa.
 
 💻 Front-end
 <br>
