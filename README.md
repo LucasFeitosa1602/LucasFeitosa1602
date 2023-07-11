@@ -1,6 +1,7 @@
 ## Olá!, Sou Lucas Feitosa
 
 💻 Front-end
+<br>
 🌎 tenho 19 anos, sou desenvolvedor Front-End Jr, estudo na Faculdade Estacio de SA e estou
             cursando Sistema da Informação. Minhas principais competências são: HTML | CSS |
             JavaScript | GIT | Trabalho em equipe, boa comunicação, empatia e cordialidade,
