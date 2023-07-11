@@ -1,6 +1,11 @@
 ## Olá!, Sou Lucas Feitosa
-💻 Front-end
 
+💻 Front-end
+🌎 tenho 19 anos, sou desenvolvedor Front-End Jr, estudo na Faculdade Estacio de SA e estou
+            cursando Sistema da Informação. Minhas principais competências são: HTML | CSS |
+            JavaScript | GIT | Trabalho em equipe, boa comunicação, empatia e cordialidade,
+            facilidade em se adaptar e aprender novas funções.
+            
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
