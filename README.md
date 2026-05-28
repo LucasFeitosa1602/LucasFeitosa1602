@@ -36,7 +36,7 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
 
   <p align="center">
   <!-- Skill Icons -->
- <img src="https://skillicons.dev/icons?i=python,pandas,numpy,postgres,mysql,git,github,vscode"/>
+ <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode"/>
   <br>
   <!-- Data Stack -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
