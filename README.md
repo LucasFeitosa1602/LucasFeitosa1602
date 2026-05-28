@@ -1,7 +1,4 @@
-## Olá!, Sou Lucas Feitosa.
-
-# 👋 Olá, eu sou Lucas Feitosa
-
+## 👋 Olá, eu sou Lucas Feitosa
 📊 Analista de Dados em formação | Python | SQL | BI  
 
 ---
