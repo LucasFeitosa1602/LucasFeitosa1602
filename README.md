@@ -1,14 +1,71 @@
 ## Olá!, Sou Lucas Feitosa.
 
-💻 Front-end
-<br>
-🌎 tenho 19 anos, sou desenvolvedor Front-End Jr, estudo na Faculdade Estacio de SA e estou
-            cursando Sistema da Informação. Minhas principais competências são: HTML | CSS |
-            JavaScript | GIT | Trabalho em equipe, boa comunicação, empatia e cordialidade,
-            facilidade em se adaptar e aprender novas funções.
-            
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeitosa1602&hide&theme=radical)
+# 👋 Olá, eu sou Lucas Feitosa
+
+📊 Analista de Dados em formação | Python | SQL | BI  
+
+---
+
+## 🚀 Sobre mim
+
+Tenho foco em análise de dados, utilizando ferramentas como Python, SQL e bibliotecas voltadas para manipulação e visualização de dados.
+
+Atualmente desenvolvo projetos práticos envolvendo:
+
+- Análise Exploratória de Dados (EDA)
+- Tratamento e limpeza de dados
+- Criação de métricas de negócio
+- Geração de insights para tomada de decisão
+
+🎓 Estudante de Sistemas de Informação  
+📍 Aracaju - SE  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+🐍 Python  
+📊 Pandas & NumPy  
+📈 Matplotlib / Seaborn  
+🗄️ SQL  
+📊 Power BI (ou Qlik, se quiser colocar)  
+📓 Jupyter Notebook  
+🔧 Git & GitHub  
+
+---
+
+## 📂 Projetos em destaque
+
+📌 Análise de Delivery de Refeições  
+→ Limpeza, tratamento e análise de pedidos  
+→ Criação de métricas de receita  
+→ Insights de vendas  
+
+📌 Análise de Vendas  
+→ Integração de dados  
+→ Análise de desempenho  
+→ Identificação de produtos mais vendidos  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=dark)
+
+---
+
+## 📬 Contato
+
+📧 Email: seuemail@gmail.com  
+💼 LinkedIn: coloque_seu_linkedin_aqui  
+
+---
+
+## 💡 Objetivo
+
+Busco minha primeira oportunidade como Analista de Dados Jr, onde possa aplicar conhecimentos em análise, gerar insights e contribuir com decisões baseadas em dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
