@@ -1,79 +1,96 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08121c,100:00ffff&height=140&section=header"/>
 
-# HELLO, I'M [SEU NOME] 👋
+# Hello, I'm SEU NOME 👋
 
-### 📊 Data Analyst | BI Analyst | Data Visualization
+### 📊 Data Analyst | BI Analyst | SQL | Python
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+<br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff"/>
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="SEU_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
-
-# 📈 Contribution Graph
-
-[![Matheus Maia github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/SEUUSER)
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU-PORTFOLIO)
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU-INSTAGRAM)
+<a href="SEU_GMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🧠 Main Skills
+# 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=numpy)
+📌 Analista de Dados focado em:
+- Visualização de dados
+- Business Intelligence
+- Automação de relatórios
+- Insights estratégicos
+- ETL e análise exploratória
 
----
-
-# 🛠️ Tools
-
-![VS Code](https://img.shields.io/badge/VS_CODE-000?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+📚 Atualmente estudando:
+- Machine Learning
+- Engenharia de Dados
+- Cloud & Big Data
 
 ---
 
-# 📚 Other Knowledge
+# 🧠 Languages and Tools
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=tensorflow)
-![Statistics](https://img.shields.io/badge/Statistics-000?style=for-the-badge&logo=databricks)
-![Data Visualization](https://img.shields.io/badge/DataViz-000?style=for-the-badge&logo=tableau)
-![ETL](https://img.shields.io/badge/ETL-000?style=for-the-badge&logo=apacheairflow)
-![Big Data](https://img.shields.io/badge/Big_Data-000?style=for-the-badge&logo=apachehadoop)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+
+</div>
 
 ---
 
-# 🚀 Currently Studying
+# 📈 GitHub Analytics
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=scikitlearn)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/SEUUSER)
+
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+## 📌 Sales Dashboard
+Dashboard de vendas com Power BI usando KPIs estratégicos.
+
+## 📌 ETL Pipeline
+Pipeline automatizado utilizando Python + SQL.
+
+## 📌 Customer Churn Analysis
+Modelo analítico para previsão de cancelamento de clientes.
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:08121c&height=120&section=footer"/>
 
 </div>
