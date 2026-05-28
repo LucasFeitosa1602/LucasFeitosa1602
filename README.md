@@ -1,77 +1,79 @@
-## 👋 Olá, eu sou Lucas Feitosa
-📊 Analista de Dados em formação | Python | SQL | BI  
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+# HELLO, I'M [SEU NOME] 👋
+
+### 📊 Data Analyst | BI Analyst | Data Visualization
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff"/>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 📈 Contribution Graph
 
-Tenho foco em análise de dados, utilizando ferramentas como Python, SQL e bibliotecas voltadas para manipulação e visualização de dados.
-
-Atualmente desenvolvo projetos práticos envolvendo:
-
-- Análise Exploratória de Dados (EDA)
-- Tratamento e limpeza de dados
-- Criação de métricas de negócio
-- Geração de insights para tomada de decisão
-
-🎓 Estudante de Sistemas de Informação  
-📍 Aracaju - SE  
+[![Matheus Maia github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/SEUUSER)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="center">
 
-🐍 Python  
-📊 Pandas & NumPy  
-📈 Matplotlib / Seaborn  
-🗄️ SQL  
-📊 Power BI (ou Qlik, se quiser colocar)  
-📓 Jupyter Notebook  
-🔧 Git & GitHub  
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
 
----
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU-PORTFOLIO)
 
-## 📂 Projetos em destaque
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU-INSTAGRAM)
 
-📌 Análise de Delivery de Refeições  
-→ Limpeza, tratamento e análise de pedidos  
-→ Criação de métricas de receita  
-→ Insights de vendas  
-
-📌 Análise de Vendas  
-→ Integração de dados  
-→ Análise de desempenho  
-→ Identificação de produtos mais vendidos  
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Main Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=dark)
-
----
-
-## 📬 Contato
-
-📧 Email: seuemail@gmail.com  
-💼 LinkedIn: coloque_seu_linkedin_aqui  
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=numpy)
 
 ---
 
-## 💡 Objetivo
+# 🛠️ Tools
 
-Busco minha primeira oportunidade como Analista de Dados Jr, onde possa aplicar conhecimentos em análise, gerar insights e contribuir com decisões baseadas em dados.
+![VS Code](https://img.shields.io/badge/VS_CODE-000?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>  
-<br>
-<div> 
-  <a href="https://www.instagram.com/_lucassfeitosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasfeitosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lukinhasfeitosa1602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>          
+---
+
+# 📚 Other Knowledge
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=tensorflow)
+![Statistics](https://img.shields.io/badge/Statistics-000?style=for-the-badge&logo=databricks)
+![Data Visualization](https://img.shields.io/badge/DataViz-000?style=for-the-badge&logo=tableau)
+![ETL](https://img.shields.io/badge/ETL-000?style=for-the-badge&logo=apacheairflow)
+![Big Data](https://img.shields.io/badge/Big_Data-000?style=for-the-badge&logo=apachehadoop)
+
+---
+
+# 🚀 Currently Studying
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=scikitlearn)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 </div>
