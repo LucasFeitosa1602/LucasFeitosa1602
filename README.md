@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08121c,100:00ffff&height=140&section=header"/>
 
-# Hello, I'm SEU NOME 👋
+# Hello, I'm Lucas Feitosa 👋
 
-### 📊 Data Analyst | BI Analyst | SQL | Python
+### 📊 Data Analyst | BI Analyst | SQL | Python | QlikSense
 
 <br>
 
@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSER&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/SEUUSER)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasFeitosa1602&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/LucasFeitosa1602)
 
 </div>
 
