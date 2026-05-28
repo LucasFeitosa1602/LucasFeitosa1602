@@ -1,6 +1,8 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08121c,100:00ffff&height=140&section=header"/>
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 # Hello, I'm Lucas Feitosa 👋
 
