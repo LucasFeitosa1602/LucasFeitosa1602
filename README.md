@@ -50,15 +50,9 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
 
 ---
 
-# 📈 GitHub Analytics
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=tokyonight"/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
-
-</div>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=tokyonight"/>
 
 ---
 
