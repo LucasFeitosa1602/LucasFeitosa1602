@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="ailto:lukinhasfeitosa1602@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:lukinhasfeitosa1602@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -47,12 +47,6 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
   <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
 </p>
 </div>
-
----
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=tokyonight"/>
 
 ---
 
