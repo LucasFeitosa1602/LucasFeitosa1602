@@ -8,15 +8,11 @@
 
 <br>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucasfeitosa-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="SEU_GMAIL">
+<a href="ailto:lukinhasfeitosa1602@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
