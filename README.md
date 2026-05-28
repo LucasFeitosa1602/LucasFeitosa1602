@@ -34,7 +34,7 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,vscode"/>
 
 </div>
 
