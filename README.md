@@ -49,7 +49,14 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
 </div>
 
 ---
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=LucasFeitosa1602&show_icons=true&theme=radical" />
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasFeitosa1602&layout=compact&theme=radical" />
+
+</div>
 
 # 📊 Contribution Graph
 
