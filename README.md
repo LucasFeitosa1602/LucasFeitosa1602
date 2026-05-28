@@ -62,18 +62,6 @@ Sou Analista de Dados com foco em transformar dados em decisões estratégicas. 
 
 ---
 
-# 🏆 Featured Projects
-
-## 📌 Sales Dashboard
-Dashboard de vendas com Power BI usando KPIs estratégicos.
-
-## 📌 ETL Pipeline
-Pipeline automatizado utilizando Python + SQL.
-
-## 📌 Customer Churn Analysis
-Modelo analítico para previsão de cancelamento de clientes.
-
----
 
 <div align="center">
 
