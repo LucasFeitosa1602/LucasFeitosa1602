@@ -22,19 +22,13 @@
 
 # 🚀 About Me
 
-📌 Analista de Dados focado em:
-- Visualização de dados
-- Business Intelligence
-- Automação de relatórios
-- Insights estratégicos
-- ETL e análise exploratória
+Sou Analista de Dados com foco em transformar dados em decisões estratégicas. Tenho experiência em:
 
-📚 Atualmente estudando:
-- Machine Learning
-- Engenharia de Dados
-- Cloud & Big Data
-
----
+📊 Visualização de Dados – criação de dashboards claros e orientados a negócio
+📈 Business Intelligence (BI) – análise e acompanhamento de KPIs
+⚙️ Automação de Relatórios – otimização de processos e ganho de eficiência
+🔍 Análise Exploratória de Dados (EDA) – identificação de padrões e insights
+🔄 ETL – coleta, tratamento e transformação de dados
 
 # 🧠 Languages and Tools
 
